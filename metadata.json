@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Spotify Music Data Dashboard",
+  "description": "An interactive data visualization dashboard analyzing trends in music tracks, artists, and albums from Spotify data. This application showcases various chart types to tell a compelling data story about music popularity and characteristics.",
+  "requestFramePermissions": []
+}
